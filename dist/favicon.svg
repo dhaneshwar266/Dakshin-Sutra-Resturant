@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#D9531E" />
+  <!-- Traditional South Indian Coffee Davarah / Tumbler Outline -->
+  <path d="M22 24 L24 46 C24 48 26 50 32 50 C38 50 40 48 40 46 L42 24 Z" fill="#1E1611" />
+  <path d="M18 20 C18 19 20 18 24 18 L40 18 C44 18 46 19 46 20 C46 22 44 24 40 24 L24 24 C20 24 18 22 18 20 Z" fill="#E5A93C" opacity="0.95" />
+  <!-- Steam curls -->
+  <path d="M28 14 Q30 10 28 6" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" fill="none" />
+  <path d="M34 14 Q36 8 33 5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" fill="none" />
+  <!-- Davarah rim ring -->
+  <ellipse cx="32" cy="48" rx="16" ry="4" fill="none" stroke="#E5A93C" stroke-width="2" opacity="0.6" />
+</svg>
